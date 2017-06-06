@@ -1,0 +1,22 @@
+{
+    "AS_AppEvents_08a051f6e2d545f4beb8c95f81e3c63d": {
+        "id": "AS_AppEvents_08a051f6e2d545f4beb8c95f81e3c63d",
+        "type": "ACTION_SEQUENCE",
+        "name": "postInitApp",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___6d9a348063ce406a9e64a72b6df13aa9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "iniciarForms",
+            "display": "iniciarForms",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}
