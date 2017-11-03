@@ -1,7 +1,8 @@
-//Type your code here
-function createLocalnotification(){ 
+//Notificacao -----ainda nao deu certo
+var UtilView;
+UtilView.createLocalnotification = function(){ 
     var notificationId = "06";
-    var date = "26 may 2017 13:53:00 +0530";
+    var date = "7 jun 2017 01:24:00 +0530";
     var format = "dd MMM yyyy HH:mm:ss Z";
     var message = "Local notification Received";
     var title = "Title";
@@ -22,5 +23,10 @@ function createLocalnotification(){
         }
 
     });
+  alert(offlinenotification);
+};
+
+UtilView.telaNaoConectado = function(){
+  //chamar tela nao contectado
   
-}
+};

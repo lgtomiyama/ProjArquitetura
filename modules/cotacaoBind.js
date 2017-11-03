@@ -1,10 +1,10 @@
-var cotacaoBind = {
+var CotacaoBind = {
     bindDetalhe : function(data){
-      utilDebug.alert(data);
-      cotacaoForm.lblCodigo.text = data.codCotacao;
+      UtilDebug.alert(data);
+      CotacaoForm.lblCodigo.text = data.codCotacao;
     },
     bindLista : function(data){
-      utilDebug.alert(data);
-      cotacaoForm.listCotacoes.masterData = data.lista;
+      UtilDebug.alert(data);
+      CotacaoForm.listCotacoes.masterData = data.lista;
     }
 };

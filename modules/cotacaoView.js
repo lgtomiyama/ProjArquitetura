@@ -1,14 +1,14 @@
-var cotacaoView = {
+var CotacaoView = {
   preShow:function(){
     //<Eventos>
-   	cotacaoForm.postShow = function(){
+   	CotacaoForm.postShow = function(){
      	//Carrega tela
-    	cotacaoBus.buscarCotacaoLista(null);
-      createLocalnotification();
-      localNotCallBacks();
+      CotacaoBus.buscarCotacaoLista(null);
+      //UtilView.createLocalnotification();
+      //localNotCallBacks();
    	};
-	cotacaoForm.btnBuscarCotacao.onClick = function(){
-      cotacaoBus.buscarCotacaoDetalhe(null);
+	CotacaoForm.btnBuscarCotacao.onClick = function(){
+      CotacaoBus.buscarCotacaoDetalhe(null);
     };
     //</Eventos>
   },

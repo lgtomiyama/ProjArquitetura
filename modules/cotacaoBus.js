@@ -1,35 +1,40 @@
-
-
-//Junto
-var cotacaoBus = {
+//Implementacao os metodos juntos em uma referencia a classe
+//Desvantagem: comum perder ',', '{', '['
+var CotacaoBus = {
     buscarCotacaoLista : function(params){
       try{
         var callBackSucesso = function(data){
 
-          cotacaoBind.bindLista(data);
+          CotacaoBind.bindLista(data);
         };
         var callBackErro = function(error){
           //Chamar tela OPS
-          utilDebug.alert("Erro!");
+          UtilDebug.erroCallback(error);
         };
-      	cotacaoService.buscarCotacaoLista(callBackSucesso,callBackErro,params);
-      }catch(e){
-		kony.print("erro cotacaoBus:" + e);
+        if(UtilsNetwork.conectado())
+        {
+      	  CotacaoService.buscarCotacaoLista(callBackSucesso,callBackErro,params);
+        }else{
+          UtilView.telaNaoConectado();
+        }
+      }catch(erro){
+		UtilDebug.error(erro);
       }
   	}
 };
-//ou separado
-cotacaoBus.buscarCotacaoDetalhe = function(params){
+//Implementacao dos metodos replicando a classe separado dos demais
+//Vantagem: maior eficacia para buscar os metodos dentro das classes
+CotacaoBus.buscarCotacaoDetalhe = function(params){
       try{
         var callBackSucesso = function(data){
-          cotacaoBind.bindDetalhe(data);
+          CotacaoBind.bindDetalhe(data);
         };
         var callBackErro = function(error){
           //Chamar tela OPS
-          utilDebug.alert("Erro!");
+          UtilDebug.erooCallback(error);
         };
-      	cotacaoService.buscarCotacaoDetalhe(callBackSucesso,callBackErro,params);
-      }catch(e){
-		kony.print("erro cotacaoBus:" + e);
+      	CotacaoService.buscarCotacaoDetalhe(callBackSucesso,callBackErro,params);
+      }catch(erro){
+		CtilDebug.error(erro);
       }
 };

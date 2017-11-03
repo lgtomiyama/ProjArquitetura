@@ -1,10 +1,10 @@
-var cotacaoService = {
+var CotacaoService = {
     buscarCotacaoDetalhe : function(callBackSucesso,callBackErro,params){
       var opMock = true;
       var servico = "MobileInstitucionalWS";
       var operacao = "detalhe";
       if(opMock|| config.mockarTudo){
-        callBackSucesso(cotacaoServiceMock.buscarCotacaoDetalhe(callBackSucesso, callBackErro, params));
+        callBackSucesso(CotacaoServiceMock.buscarCotacaoDetalhe(callBackSucesso, callBackErro, params));
       }else{
         //callWebService(param, retornoCotacaoSucesso, retornoCotacaoFalha, cotacaoService.operacao);
       }
@@ -14,7 +14,7 @@ var cotacaoService = {
       var servico = "MobileInstitucionalWS";
       var operacao = "lista";
       if(opMock|| config.mockarTudo){
-        callBackSucesso(cotacaoServiceMock.buscarCotacaoLista(callBackSucesso, callBackErro, params));
+        callBackSucesso(CotacaoServiceMock.buscarCotacaoLista(callBackSucesso, callBackErro, params));
       }else{
         //callWebService(param, retornoCotacaoSucesso, retornoCotacaoFalha, cotacaoService.operacao);
       }
