@@ -58,7 +58,7 @@
     "kuid": "d5934dd63547476bac0b87b2e10c08e3",
     "name": "kony.ui.Label",
     "parent": "FlexContainer044ea6db415a64f",
-    "pf": "cotacaoForm",
+    "pf": "CotacaoForm",
     "tooltip": "",
     "wType": "Label",
     "zindex": 1

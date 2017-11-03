@@ -43,7 +43,7 @@
     "kuid": "b2cd78e9d22642d5a181407a88ea7f6e",
     "name": "kony.ui.Button",
     "parent": "FlexContainer044ea6db415a64f",
-    "pf": "cotacaoForm",
+    "pf": "CotacaoForm",
     "wType": "Button",
     "zindex": 1
 }
