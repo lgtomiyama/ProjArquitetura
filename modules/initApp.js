@@ -1,6 +1,6 @@
  function iniciarForms(){
    //Iniciar eventos dos forms
-   cotacaoForm.preShow = cotacaoView.preShow;
+   CotacaoForm.preShow = CotacaoView.preShow;
  }
 function localNotCallBacks() {
     try {
