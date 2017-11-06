@@ -1,0 +1,1 @@
+	)jssrc/android/nongenerated/cotacaoView.js 2jsXh

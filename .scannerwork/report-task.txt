@@ -1,0 +1,6 @@
+projectKey=arquitetura
+serverUrl=http://localhost:9000
+serverVersion=6.6.0.32724
+dashboardUrl=http://localhost:9000/dashboard/index/arquitetura
+ceTaskId=AV-CNTGMB3X9yc4XA5mP
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV-CNTGMB3X9yc4XA5mP

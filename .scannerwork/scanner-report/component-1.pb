@@ -1,0 +1,1 @@
+arquitetura :#35J1.0Rarquitetura

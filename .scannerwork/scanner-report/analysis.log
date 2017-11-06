@@ -1,0 +1,112 @@
+Environment variables:
+  - Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.4B32GE0nEA/Render
+  - HOME=/Users/lgarciat
+  - JAVA_ARCH=x86_64
+  - JAVA_MAIN_CLASS_7812=org.sonarsource.scanner.cli.Main
+  - LANG=pt_BR.UTF-8
+  - LOGNAME=lgarciat
+  - PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Frameworks/Mono.framework/Versions/Current/Commands
+  - PWD=/Users/lgarciat/KonyVizEWS/ProjArquitetura
+  - SHELL=/bin/bash
+  - SHLVL=1
+  - SONAR_SCANNER_HOME=/usr/local/Cellar/sonar-scanner/3.0.3.778/libexec
+  - SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.oCNoCrcazw/Listeners
+  - TERM=xterm-256color
+  - TERM_PROGRAM=Apple_Terminal
+  - TERM_PROGRAM_VERSION=400
+  - TERM_SESSION_ID=C29370A7-3467-46E2-ADF5-244AF821E3E0
+  - TMPDIR=/var/folders/p_/57vrnscd68q_gdnc6dp1wh6h0000gp/T/
+  - USER=lgarciat
+  - XPC_FLAGS=0x0
+  - XPC_SERVICE_NAME=0
+  - __CF_USER_TEXT_ENCODING=0x1F6:0x0:0x47
+  - com.apple.java.jvmTask=CommandLine
+System properties:
+  - awt.toolkit=sun.lwawt.macosx.LWCToolkit
+  - file.encoding=UTF-8
+  - file.encoding.pkg=sun.io
+  - file.separator=/
+  - ftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16
+  - gopherProxySet=false
+  - http.nonProxyHosts=local|*.local|169.254/16|*.169.254/16
+  - java.awt.graphicsenv=sun.awt.CGraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.lwawt.macosx.CPrinterJob
+  - java.class.path=/usr/local/Cellar/sonar-scanner/3.0.3.778/libexec/lib/sonar-scanner-cli-3.0.3.778.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/endorsed
+  - java.ext.dirs=/Users/lgarciat/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+  - java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+  - java.io.tmpdir=/var/folders/p_/57vrnscd68q_gdnc6dp1wh6h0000gp/T/
+  - java.library.path=/Users/lgarciat/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_144-b01
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_144
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.144-b01
+  - line.separator=
+
+  - os.arch=x86_64
+  - os.name=Mac OS X
+  - os.version=10.13
+  - path.separator=:
+  - project.home=/Users/lgarciat/KonyVizEWS/ProjArquitetura
+  - scanner.home=/usr/local/Cellar/sonar-scanner/3.0.3.778/libexec
+  - socksNonProxyHosts=local|*.local|169.254/16|*.169.254/16
+  - sun.arch.data.model=64
+  - sun.boot.class.path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/classes
+  - sun.boot.library.path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=
+  - sun.io.unicode.encoding=UnicodeBig
+  - sun.java.command=org.sonarsource.scanner.cli.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=UTF-8
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=unknown
+  - user.country=BR
+  - user.dir=/Users/lgarciat/KonyVizEWS/ProjArquitetura
+  - user.home=/Users/lgarciat
+  - user.language=pt
+  - user.name=lgarciat
+  - user.timezone=America/Sao_Paulo
+SonarQube plugins:
+  - C# 5.10.1.1411 (csharp)
+  - SonarPython 1.8.0.1496 (python)
+  - SonarJava 4.12.0.11033 (java)
+  - Flex 2.3 (flex)
+  - Git 1.2 (scmgit)
+  - SonarXML 1.4.3.1027 (xml)
+  - SonarPHP 2.10.0.2087 (php)
+  - SVN 1.5.0.715 (scmsvn)
+  - SonarJS 3.1.1.5128 (javascript)
+Global properties:
+  - sonar.core.id=AV-CE1-jB3X9yc4XA43W
+  - sonar.core.startTime=2017-11-03T11:30:28-0200
+Settings for module: arquitetura
+  - sonar.analysis.mode=publish
+  - sonar.java.binaries=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home
+  - sonar.java.source=1.8
+  - sonar.language=js
+  - sonar.login=******
+  - sonar.password=******
+  - sonar.projectBaseDir=/Users/lgarciat/KonyVizEWS/ProjArquitetura
+  - sonar.projectKey=arquitetura
+  - sonar.projectName=arquitetura
+  - sonar.projectVersion=1.0
+  - sonar.scm.disabled=true
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=./
+  - sonar.verbose=true
+  - sonar.working.directory=/Users/lgarciat/KonyVizEWS/ProjArquitetura/.scannerwork

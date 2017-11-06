@@ -1,0 +1,1 @@
+6jssrc/android/generated/actions_for_ProjArquitetura.js 2jsXh

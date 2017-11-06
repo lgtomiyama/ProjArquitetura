@@ -1,0 +1,1 @@
+%jssrc/android/nongenerated/initApp.js 2jsXKh

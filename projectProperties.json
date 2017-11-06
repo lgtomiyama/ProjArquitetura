@@ -15,7 +15,7 @@
     "appidkey": "ProjArquitetura",
     "apppackagekey": "",
     "mwhttpsportkey": "",
-    "startupformkey": "cotacaoForm",
+    "startupformkey": "CotacaoForm",
     "referenceWidth": "375",
     "vendornamekey": "KonyLabs",
     "konyVizVersion": "7.1.1.2",
@@ -23,7 +23,7 @@
     "APPLICATION_THEME": "default",
     "project_version": "sprint24",
     "nativeContainerProperties": {
-        "isModified": false,
+        "isModified": true,
         "isEnableJSContainer": false,
         "isEnableJSContainerAndroid": false,
         "isEnableJSContaineriOS": false

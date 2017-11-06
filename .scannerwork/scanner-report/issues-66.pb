@@ -1,0 +1,491 @@
+h
+
+javascriptS2259ETypeError can be thrown as "options" might be null or undefined here. 2
+•• h
+
+javascriptS2259ETypeError can be thrown as "options" might be null or undefined here. 2
+‘‘ i
+
+javascriptS2259FTypeError can be thrown as "response" might be null or undefined here. 2
+¨C¨C	 i
+
+javascriptS2259FTypeError can be thrown as "response" might be null or undefined here. 2
+©D©D h
+
+javascriptS2259ETypeError can be thrown as "headers" might be null or undefined here. 2
+∫E∫E ë
+
+javascriptS3403JRemove this "!==" check; it will always be true. Did you mean to use "!="? 2
+ÚÚ* -:
+B
+ÚÚ% ):
+B
+ÚÚ. 7ë
+
+javascriptS3403JRemove this "!==" check; it will always be true. Did you mean to use "!="? 2
+»», /:
+B
+»»& +:
+B
+»»0 9ë
+
+javascriptS3403JRemove this "!==" check; it will always be true. Did you mean to use "!="? 2
+˛˛ :
+B
+˛˛ :
+B
+˛˛ "ë
+
+javascriptS3403JRemove this "!==" check; it will always be true. Did you mean to use "!="? 2
+‚‚( +:
+B
+‚‚ ':
+B
+‚‚, 0ë
+
+javascriptS3403JRemove this "!==" check; it will always be true. Did you mean to use "!="? 2
+ÅÅ8 ;:
+B
+ÅÅ* 7:
+B
+ÅÅ< Eë
+
+javascriptS3403JRemove this "!==" check; it will always be true. Did you mean to use "!="? 2
+◊◊6 9:
+B
+◊◊' 5:
+B
+◊◊: Cë
+
+javascriptS3403JRemove this "!==" check; it will always be true. Did you mean to use "!="? 2
+ÅÅ !:
+B
+ÅÅ :
+B
+ÅÅ" &ë
+
+javascriptS3403JRemove this "!==" check; it will always be true. Did you mean to use "!="? 2
+◊◊ :
+B
+◊◊ :
+B
+◊◊ #ë
+
+javascriptS3403JRemove this "!==" check; it will always be true. Did you mean to use "!="? 2
+»» :
+B
+»» :
+B
+»» "ë
+
+javascriptS3403JRemove this "!==" check; it will always be true. Did you mean to use "!="? 2
+ÚÚ :
+B
+ÚÚ :
+B
+ÚÚ !{
+
+javascriptS2814FRename "key" as this name is already used in declaration at line 8689. 2
+ˇCˇC :
+B
+ÒCÒC
+ {
+
+javascriptS2814FRename "col" as this name is already used in declaration at line 3776. 2
+›› :
+B
+¿¿ É
+
+javascriptS2814NRename "paramsTable" as this name is already used in declaration at line 8768. 2
+ªEªE :
+B
+¿D¿D {
+
+javascriptS2814FRename "key" as this name is already used in declaration at line 8648. 2
+‹C‹C :
+B
+»C»C }
+
+javascriptS2814HRename "field" as this name is already used in declaration at line 3763. 2
+¡¡ :
+B
+≥≥ ~
+
+javascriptS2814IRename "logger" as this name is already used in declaration at line 8766. 2
+⁄E⁄E :
+B
+æDæD ~
+
+javascriptS2814IRename "_popup" as this name is already used in declaration at line 7974. 2
+Ã>Ã> :
+B
+¶>¶> ~
+
+javascriptS2814IRename "payload" as this name is already used in declaration at line 914. 2
+¢¢ :
+B
+íí Ü
+
+javascriptS2814QRename "firstDayofWeek" as this name is already used in declaration at line 5745. 2
+˚,˚, :
+B
+Ò,Ò, Ü
+
+javascriptS2814QRename "firstDayofWeek" as this name is already used in declaration at line 5745. 2
+Ö-Ö- :
+B
+Ò,Ò, }
+
+javascriptS2814HRename "option" as this name is already used in declaration at line 918. 2
+££ :
+B
+ññ Ä
+
+javascriptS2814KRename "colIndex" as this name is already used in declaration at line 3764. 2
+¬¬ :
+B
+¥¥ Ä
+
+javascriptS2814KRename "firstVal" as this name is already used in declaration at line 8769. 2
+ºEºE :
+B
+¡D¡D Ö
+
+javascriptS2814PRename "lastDayofWeek" as this name is already used in declaration at line 5746. 2
+¸,¸, :
+B
+Ú,Ú, Ö
+
+javascriptS2814PRename "lastDayofWeek" as this name is already used in declaration at line 5746. 2
+Ü-Ü- :
+B
+Ú,Ú, ~
+
+javascriptS3923[Remove this conditional structure or edit its code blocks so that they're not all the same. 2
+¨∞ c
+
+javascriptUnusedVariable7Remove the declaration of the unused 'logger' variable. 2
+´?´? c
+
+javascriptUnusedVariable7Remove the declaration of the unused 'logger' variable. 2
+˜B˜B c
+
+javascriptUnusedVariable7Remove the declaration of the unused 'errMsg' variable. 2
+ÂÂ c
+
+javascriptUnusedVariable7Remove the declaration of the unused 'logger' variable. 2
+Õ?Õ? a
+
+javascriptUnusedVariable5Remove the declaration of the unused 'prop' variable. 2
+˚.˚.
+ f
+
+javascriptUnusedVariable:Remove the declaration of the unused 'dataStore' variable. 2
+í3í3 j
+
+javascriptUnusedVariable@Remove the declaration of the unused 'networkProvider' variable. 2TT R
+
+javascriptUnusedVariable&Remove unused function 'setEndPoints'. 2
+¥0¥0
+ a
+
+javascriptUnusedVariable5Remove the declaration of the unused 'name' variable. 2
+æHæH j
+
+javascriptUnusedVariable>Remove the declaration of the unused 'markForUpload' variable. 2
+„„ `
+
+javascriptUnusedVariable4Remove the declaration of the unused 'val' variable. 2
+—+—+ c
+
+javascriptUnusedVariable7Remove the declaration of the unused 'logger' variable. 2
+ë3ë3 j
+
+javascriptUnusedVariable>Remove the declaration of the unused 'currentobject' variable. 2
+ùù h
+
+javascriptUnusedVariable<Remove the declaration of the unused 'requestData' variable. 2
+ÇÇ g
+
+javascriptUnusedVariable;Remove the declaration of the unused 'svcDataStr' variable. 2
+ŒŒ c
+
+javascriptUnusedVariable7Remove the declaration of the unused 'logger' variable. 2
+ÎCÎC h
+
+javascriptUnusedVariable<Remove the declaration of the unused 'retrievedDS' variable. 2
+›8›8 m
+
+javascriptUnusedVariableARemove the declaration of the unused 'encryptedStorage' variable. 2
+ìì h
+
+javascriptUnusedVariable<Remove the declaration of the unused 'whereClause' variable. 2
+®-®- d
+
+javascriptUnusedVariable8Remove the declaration of the unused 'isError' variable. 2
+‚‚ b
+
+javascriptUnusedVariable6Remove the declaration of the unused 'hash2' variable. 2
+›/›/ 
+o
+
+javascriptUnusedVariableCRemove the declaration of the unused 'integrationService' variable. 2
+ˇ2ˇ2 h
+
+javascriptUnusedVariable<Remove the declaration of the unused 'originalUrl' variable. 2
+É?É? b
+
+javascriptUnusedVariable6Remove the declaration of the unused 'hash2' variable. 2
+Ì/Ì/ 
+c
+
+javascriptS1854BRemove this useless assignment to local variable "networkProvider" 2TT `
+
+javascriptS1854=Remove this useless assignment to local variable "svcDataStr" 2
+ŒŒ c
+
+javascriptS1854@Remove this useless assignment to local variable "currentobject" 2
+ùù [
+
+javascriptS18548Remove this useless assignment to local variable "field" 2
+∫∫ [
+
+javascriptS18548Remove this useless assignment to local variable "field" 2
+   e
+
+javascriptS1854BRemove this useless assignment to local variable "areObjectsEqual" 2
+ÙÙ Y
+
+javascriptS18546Remove this useless assignment to local variable "val" 2
+—+—+ Z
+
+javascriptS18547Remove this useless assignment to local variable "prop" 2
+˚.˚.
+ [
+
+javascriptS18548Remove this useless assignment to local variable "hash2" 2
+›/›/ 
+[
+
+javascriptS18548Remove this useless assignment to local variable "hash2" 2
+Ì/Ì/ 
+\
+
+javascriptS18549Remove this useless assignment to local variable "logger" 2
+ë3ë3 _
+
+javascriptS1854<Remove this useless assignment to local variable "dataStore" 2
+í3í3 [
+
+javascriptS18548Remove this useless assignment to local variable "token" 2
+Ù3Ù3 	[
+
+javascriptS18548Remove this useless assignment to local variable "token" 2
+◊4◊4 	a
+
+javascriptS1854>Remove this useless assignment to local variable "originalUrl" 2
+É?É? \
+
+javascriptS18549Remove this useless assignment to local variable "logger" 2
+´?´? \
+
+javascriptS18549Remove this useless assignment to local variable "logger" 2
+Õ?Õ? \
+
+javascriptS18549Remove this useless assignment to local variable "logger" 2
+˜B˜B \
+
+javascriptS18549Remove this useless assignment to local variable "logger" 2
+ÎCÎC _
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+ÚGÚG 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+ÔGÔG 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+ÜHÜH 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+ÉHÉH 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+ÄHÄH 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+˝G˝G 
+Z
+
+javascriptS18547Remove this useless assignment to local variable "name" 2
+æHæH _
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+¢I¢I 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+üIüI 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+úIúI 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+ôIôI 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+ñIñI 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+ìIìI 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+êIêI 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+çIçI 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+äIäI 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+áIáI 
+_
+
+javascriptS1854<Remove this useless assignment to local variable "returnVal" 2
+ÖIÖI n
+
+javascriptUnreachableCodeRemove this unreachable code. 2
+ôô O:
+B
+ññ :
+B
+îî l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+É2É2 	:
+B
+Ç2Ç2 l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+˚1˚1 	:
+B
+˙1˙1 l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+ì2ì2 	:
+B
+í2í2 l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+ã2ã2 	:
+B
+ä2ä2 l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+Í1Í1 	:
+B
+È1È1 l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+Ò1Ò1 	:
+B
+11 l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+ƒ8ƒ8 	:
+B
+√8√8 l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+Ù9Ù9 
+:
+B
+Û9Û9 l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+“9“9 
+:
+B
+—9—9 l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+À9À9 
+:
+B
+ 9 9 l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+‰9‰9 
+:
+B
+„9„9 l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+‹9‹9 
+:
+B
+€9€9 l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+Ï9Ï9 
+:
+B
+Î9Î9 l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+Î:Î: 
+:
+B
+Í:Í: l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+§<§< 	:
+B
+£<£< l
+
+javascriptUnreachableCode-Remove this code after the "throw" statement. 2
+¿<¿< 
+:
+B
+ø<ø< Ä
+
+javascriptS2703]Add the "let", "const" or "var" keyword to this declaration of "konyRef" to make it explicit. 2
+ËË Å
+
+javascriptS2703^Add the "let", "const" or "var" keyword to this declaration of "dataType" to make it explicit. 2
+∆ ∆  Ç
+
+javascriptS2703_Add the "let", "const" or "var" keyword to this declaration of "jsonParam" to make it explicit. 2
+Î5Î5 {
+
+javascriptS2703ZAdd the "let", "const" or "var" keyword to this declaration of "kony" to make it explicit. 2
+
+ å
+
+javascriptS2703iAdd the "let", "const" or "var" keyword to this declaration of "overrideNetworkFlag" to make it explicit. 2
+∞B∞B É
+
+javascriptS2703`Add the "let", "const" or "var" keyword to this declaration of "servConfig" to make it explicit. 2
+Ñ0Ñ0 ç
+
+javascriptS2703lAdd the "let", "const" or "var" keyword to this declaration of "stripTrailingCharacter" to make it explicit. 2õ.õ. Ö
+
+javascriptS2703bAdd the "let", "const" or "var" keyword to this declaration of "clientParams" to make it explicit. 2
+Ú@Ú@ |
+
+javascriptS2703YAdd the "let", "const" or "var" keyword to this declaration of "svc" to make it explicit. 2
+¿/¿/ 	

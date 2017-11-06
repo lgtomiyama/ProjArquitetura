@@ -1,0 +1,1 @@
+'$jssrc/iphone/nongenerated/initApp.js 2jsXKh
